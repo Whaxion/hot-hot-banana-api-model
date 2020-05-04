@@ -24,9 +24,9 @@
     },
     "joinGame" : {
       "token": {
-        "getToken" : {},
-        "gameId" : "a0gT4M_0"
-      }
+        "getToken" : {}
+      },
+      "gameId" : "a0gT4M_0"
     }
   },
   "response": {
@@ -40,4 +40,26 @@
       "gameId": "a0gT4M_0"
     }
   }
+}
+// OU
+{
+  "request": {
+    "joinGame": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "gameId": {
+        "getNextGame": {
+          "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76"
+        }
+      }
+    }
+  },
+  "response": {
+    "getNextGame": {
+      "gameId": "a0gT4M_0"
+    },
+    "joinGame": {
+      "gameId": "a0gT4M_0"
+    }
+  },
+  "next": ["joinGame"]
 }

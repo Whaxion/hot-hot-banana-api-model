@@ -1,0 +1,56 @@
+{
+  "request": {
+    "setStatus": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "status": 0
+    },
+  },
+  "response": {
+    "setStatus": {
+      "status": 0
+    }
+  },
+  "next": ["gameStartEvent", "voteStartEvent", "getCards", "voteEndEvent", "roundStartEvent"]
+}
+// OU
+{
+  "request": {
+    "setCards": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "cards": [1, 2]
+    },
+    "setStatus": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "status": 1
+    }
+  },
+  "response": {
+    "setCards": {
+      "cards": [1, 2]
+    },
+    "setStatus": {
+      "status": 1
+    }
+  }
+}
+// OU
+{
+  "request": {
+    "setVote": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "vote": 5
+    },
+    "setStatus": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "status": 1
+    }
+  },
+  "response": {
+    "setVote": {
+      "vote": 5
+    },
+    "setStatus": {
+      "status": 1
+    }
+  }
+}

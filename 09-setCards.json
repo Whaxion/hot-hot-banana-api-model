@@ -1,0 +1,14 @@
+{
+  "request": {
+    "setCards": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+      "cards": [1, 2]
+    }
+  },
+  "response": {
+    "setCards": {
+      "cards": [1, 2]
+    }
+  },
+  "next": ["setStatus"]
+}

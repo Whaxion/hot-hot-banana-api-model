@@ -1,0 +1,13 @@
+{
+  "response": {
+    "gameEndEvent": {
+      "rank": [
+        {
+          "score": 5,
+          "user": "1a8917a6-72dc-477f-afe6-c0b43232923a"
+        }
+      ]
+    }
+  },
+  "next": ["getNextGame", "nextGameEvent"]
+}

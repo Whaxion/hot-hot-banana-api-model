@@ -1,0 +1,17 @@
+{
+  "response": {
+    "roundStartEvent": {
+      "round": 1
+    }
+  },
+  "next": ["getCards"]
+}
+// OU
+{
+  "response": {
+    "gameStartEvent": {}
+    "roundStartEvent": {
+      "round": 1
+    }
+  }
+}

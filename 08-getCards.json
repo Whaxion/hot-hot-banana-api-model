@@ -1,0 +1,59 @@
+{
+  "request": {
+    "getCards" : {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76"
+    }
+  },
+  "response": {
+    "getCards": {
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum."
+        }
+      ]
+    }
+  },
+  "next": ["setCards", "setVote"]
+}
+// OU
+{
+  "response": {
+    "roundStartEvent": {},
+    "getCards": {
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum."
+        }
+      ]
+    }
+  }
+}
+// OU
+{
+  "response": {
+    "voteStartEvent": {},
+    "voteEvent": {},
+    "getCards": {
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum."
+        }
+      ]
+    }
+  }
+}

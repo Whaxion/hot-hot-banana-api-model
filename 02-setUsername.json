@@ -12,7 +12,7 @@
   },
   "next": ["joinGame", "createGame"]
 }
-// OU
+// OR
 {
   "request": {
     "setUsername" : {

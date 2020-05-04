@@ -12,7 +12,7 @@
   },
   "next": ["gameStartEvent", "voteStartEvent", "getCards", "voteEndEvent", "roundStartEvent"]
 }
-// OU
+// OR
 {
   "request": {
     "setCards": {
@@ -33,7 +33,7 @@
     }
   }
 }
-// OU
+// OR
 {
   "request": {
     "setVote": {

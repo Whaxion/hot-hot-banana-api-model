@@ -6,10 +6,10 @@
   },
   "next": ["getCards"]
 }
-// OU
+// OR
 {
   "response": {
-    "gameStartEvent": {}
+    "gameStartEvent": {},
     "roundStartEvent": {
       "round": 1
     }

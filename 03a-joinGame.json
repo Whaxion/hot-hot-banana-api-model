@@ -13,7 +13,7 @@
   "next": ["getUsers"],
   "involve": ["userJoinEvent"]
 }
-// OU
+// OR
 {
   "request": {
     "setUsername" : {
@@ -41,7 +41,7 @@
     }
   }
 }
-// OU
+// OR
 {
   "request": {
     "joinGame": {

@@ -20,7 +20,7 @@
   },
   "next": ["setCards", "setVote"]
 }
-// OU
+// OR
 {
   "response": {
     "roundStartEvent": {},
@@ -38,7 +38,7 @@
     }
   }
 }
-// OU
+// OR
 {
   "response": {
     "voteStartEvent": {},

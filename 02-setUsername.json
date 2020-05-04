@@ -19,7 +19,7 @@
       "token" : {
         "getToken" : {}
       },
-      "username" : "Whaxion" // char[4..20]
+      "username" : "Whaxion"
     }
   },
   "response": {

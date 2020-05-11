@@ -1,5 +1,7 @@
 # Hot Hot Banana  WebSocket API model
 
+![Scheme](https://raw.githubusercontent.com/Whaxion/hot-hot-banana-api-model/master/hot-hot-banana.svg)
+
 ## [01a-getToken](01a-getToken.json)
 Get token if we don't already have one.
 NOTE: Will actually create a new user in database.

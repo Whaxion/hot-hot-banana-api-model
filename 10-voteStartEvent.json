@@ -1,8 +1,0 @@
-{
-  "response": {
-    "voteStartEvent": {
-      "me": false
-    }
-  },
-  "next": ["voteEvent"]
-}

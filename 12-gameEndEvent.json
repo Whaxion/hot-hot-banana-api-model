@@ -9,5 +9,5 @@
       ]
     }
   },
-  "next": ["getNextGame", "nextGameEvent"]
+  "next": ["getNextGame"]
 }

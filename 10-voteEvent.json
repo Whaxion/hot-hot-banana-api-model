@@ -1,0 +1,19 @@
+{
+  "response": {
+    "voteEvent": {
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": {
+        "6ba15fc8-6bbe-4abf-a889-5fbe01a8e954": [
+          {
+            "id": 1,
+            "text": "Lorem ipsum."
+          }
+        ]
+      }
+    }
+  },
+  "next": ["setVote"]
+}

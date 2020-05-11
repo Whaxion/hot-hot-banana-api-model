@@ -1,0 +1,12 @@
+{
+  "request": {
+    "setReady": {
+      "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
+    },
+  },
+  "response": {
+    "setReady": {
+    }
+  },
+  "next": ["gameStartEvent"]
+}

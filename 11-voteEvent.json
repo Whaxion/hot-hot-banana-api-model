@@ -1,6 +1,0 @@
-{
-  "response": {
-    "voteEvent": {}
-  },
-  "next": ["getCards"]
-}

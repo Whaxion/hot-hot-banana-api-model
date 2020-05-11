@@ -38,22 +38,3 @@
     }
   }
 }
-// OR
-{
-  "response": {
-    "voteStartEvent": {},
-    "voteEvent": {},
-    "getCards": {
-      "mainCard": {
-        "id": 1,
-        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
-      },
-      "cards": [
-        {
-          "id": 1,
-          "text": "Lorem ipsum."
-        }
-      ]
-    }
-  }
-}

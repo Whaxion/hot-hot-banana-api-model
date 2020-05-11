@@ -10,5 +10,5 @@
       "cards": [1, 2]
     }
   },
-  "next": ["setStatus"]
+  "next": ["voteEvent"]
 }

@@ -1,7 +1,17 @@
 {
   "response": {
     "roundStartEvent": {
-      "round": 1
+      "round": 1,
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum."
+        }
+      ]
     }
   },
   "next": ["getCards"]
@@ -11,7 +21,17 @@
   "response": {
     "gameStartEvent": {},
     "roundStartEvent": {
-      "round": 1
+      "round": 1,
+      "mainCard": {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur _ elit."
+      },
+      "cards": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum."
+        }
+      ]
     }
   }
 }

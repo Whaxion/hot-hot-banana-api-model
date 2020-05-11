@@ -3,13 +3,11 @@
     "setVote": {
       "token": "61017785-f7c0-4021-9e4e-1ae84c9fce76",
       "for": "6ba15fc8-6bbe-4abf-a889-5fbe01a8e954"
-      "vote": 5
     }
   },
   "response": {
     "setVote": {
       "for": "6ba15fc8-6bbe-4abf-a889-5fbe01a8e954"
-      "vote": 5
     }
   },
   "next": ["roundStartEvent", "gameEndEvent"]
